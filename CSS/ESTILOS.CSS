@@ -1,0 +1,41 @@
+body {
+    background-image: url('https://i.pinimg.com/originals/8c/bb/a4/8cbba4d1d34b2177d2a5f46543b47b6c.jpg');
+    font-family: arial;
+    background-size: auto 100vh;
+    height: 100vh;
+    
+  }
+  
+  .menu {
+    background-color: white;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #ffcc00
+  }
+  
+  a:hover {
+    text-decoration: underline;
+   
+  }
+  
+  .site-title {
+    color: #CD5C5C;
+    text-align: center;
+  }
+  
+  .site-subtitle {
+    color: #CD5C5C;
+    text-align: center;
+    font-style: italic;
+  }
